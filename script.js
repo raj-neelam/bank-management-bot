@@ -1,4 +1,4 @@
-const my_chabhi = 'AIzaSyCaGDKCTrNqx5uICnWxAJlfimr1Xzhuqvc'; 
+const my_chabhi = 'AIzaSyCmdvrMLtVbZQnZtWrDMdZExfWTuAr6HMw'; 
 const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
 const initialPrompt = "Your name is BankBot. You are a helpful bank management chatbot. Assist users with their banking needs, such as account information, transactions, and financial advice.";
